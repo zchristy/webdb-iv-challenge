@@ -19,6 +19,11 @@ exports.seed = function(knex, Promise) {
           name: 'Baked Salmon Recipe',
           instructions: 'Some instructions',
           dish_id: 3
+        },
+        {
+          name: 'Pepperoni and Pineapple',
+          instructions: 'Some instructions',
+          dish_id: 1
         }
       ]);
     });
