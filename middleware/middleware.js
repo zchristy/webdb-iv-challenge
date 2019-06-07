@@ -3,7 +3,7 @@ const dataDb = require('../data/data-model.js')
 module.exports = {
   validateDishId,
   validateDish,
-  validateCRecipeId,
+  validateRecipeId,
   validateRecipe,
 };
 
